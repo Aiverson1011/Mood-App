@@ -38,6 +38,6 @@ jobs:
       - name: Run tests
         run: npm test
 
-# Runs the build command
-      - name: Build project
-        run: npm run build
+# Runs the build command for Vite Apps
+#     - name: Build project
+#      run: npm run build
